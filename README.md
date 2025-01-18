@@ -23,4 +23,6 @@ The Main Dataset has 10,081 rows and 8 columns.
 - Data Analysis	using Python
 - Extract the Top 5 most meat consumers Countries using both SQL & Python
 - SQL for Data Exploration 
-- I have made Tableau Dashboard to show the historical data
+- I have made Tableau Dashboard to show the historical data. Here you will find the interactive dashboard on Tableau public.
+[Link Here]([https://public.tableau.com/views/ShoppingTrend_17341781241310/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://haproxy-traffic-splitter/views/Consumptionbytype/consumptionbytype?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+  
