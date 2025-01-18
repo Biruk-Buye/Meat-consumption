@@ -24,4 +24,7 @@ The Main Dataset has 10,081 rows and 8 columns.
 - Extract the Top 5 most meat consumers Countries using both SQL & Python
 - SQL for Data Exploration 
 - I have made Tableau Dashboard to show the historical data. Here you will find the interactive dashboard on Tableau public.
-[Link Here](https://public.tableau.com/app/profile/biruk.alemu1557/viz/Consumptionbytype/consumptionbytype?publish=yes)
+[Consumption by type Link Here](https://public.tableau.com/app/profile/biruk.alemu1557/viz/Consumptionbytype/consumptionbytype?publish=yes)
+[Poultry and Beef Link Here](https://public.tableau.com/app/profile/biruk.alemu1557/viz/poultrybeef/PoultryBeef?publish=yes)
+[Sheep & Pork Link Here](https://public.tableau.com/app/profile/biruk.alemu1557/viz/SHeeppork/SheepPork?publish=yes)
+[Fish & Others Link Here](https://public.tableau.com/app/profile/biruk.alemu1557/viz/FishOther/OtherFish?publish=yes)
