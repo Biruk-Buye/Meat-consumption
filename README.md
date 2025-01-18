@@ -15,7 +15,7 @@ It has 10,081 rows and 8 columns.
 From 1961 to 2021 
 Apart from Kaggel i have used another source of data (Our World In Data) website for research.
 #### Process: 
-Data Analysis	using Python
-Extract the Top 5 most meat consumers Countries
-SQL for Data Exploration 
-I have made Tableau Dashboard to show the historical data
+- Data Analysis	using Python
+- Extract the Top 5 most meat consumers Countries
+- SQL for Data Exploration 
+- I have made Tableau Dashboard to show the historical data
